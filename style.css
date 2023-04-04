@@ -10,6 +10,14 @@ body {
     background: #CCCCCC
 }
 
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center
+}
+
 h1, p {
     text-align: center;
 }
@@ -36,4 +44,10 @@ h2{
 
 .imagembeneficios{
     width: 50%;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
 }
